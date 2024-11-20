@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     color: #fff;
-    font-family: "Road Rage", serif;
+    
 }
 
 
@@ -128,7 +128,7 @@ button{
 }
 
 .container-projetos {
-    height: 700px;
+    height: auto;
     width: 90%;
     display: flex;
     flex-direction: column;
@@ -142,7 +142,7 @@ button{
     margin-left: 0 auto;
     padding: 20px;
 
-    padding-left: 10px;
+    padding-left: 20px;
     margin-top: 20px;
 
 }
